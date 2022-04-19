@@ -1,0 +1,56 @@
+body{
+  margin: 0 0;
+  background-color: #A1E3D8;
+}
+.container
+{
+  background-color: #A1E3D8;
+  margin: 0px 0px;
+}
+.lap1
+{
+  width: 50%;
+  margin: auto;
+}
+
+.token
+{
+  color:Black;
+  font-family: cursive;
+  font-size: 3rem;
+  text-align: center;
+}
+.token1
+{
+  color: Black;
+  font-size: 10rem;
+  text-align: center;
+}
+.lap2
+{
+  width: 20%;
+  margin: auto;
+
+}
+.bt1
+{
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+.bt2
+{
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+.bt3
+{
+  width: 30%;
+  margin: 20px auto;
+  text-align: center;
+}
+#myBtn1
+{
+
+}
